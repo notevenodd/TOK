@@ -1,3 +1,18 @@
+3rd_party/STC/.git*
+
+# temporary stuff
+tmp/
+
+# any tags file
+tags
+
+# misc
+*.swp
+
+################################################################################
+# standard C .gitignore proposed by GitHub
+################################################################################
+
 # Prerequisites
 *.d
 

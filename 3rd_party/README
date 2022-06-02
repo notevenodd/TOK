@@ -1,0 +1,5 @@
+THIRD PARTY CODE THAT MAY GET USED AND EMBEDDED INTO OUR PROJECT
+
+STC (Smart Template Containers for C) - https://github.com/tylov/STC
+    As of 2022-06-02  dd5ff55b2ec373370c894ad7e3aec884ce640a43
+                      with all .git* stuff removed.
